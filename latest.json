@@ -1,0 +1,7 @@
+{
+ "client": {
+  "version": "1.0.29",
+  "linux": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/client-v1.0.29/rc-remote-client-linux.tar.gz",
+  "windows": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/client-v1.0.29/RCRemote.exe"
+ }
+}
