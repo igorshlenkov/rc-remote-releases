@@ -3,5 +3,12 @@
   "version": "1.0.29",
   "linux": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/client-v1.0.29/rc-remote-client-linux.tar.gz",
   "windows": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/client-v1.0.29/RCRemote.exe"
+ },
+ "rc": {
+  "version_code": 2,
+  "version_name": "1.1",
+  "apk": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/rc-v1.1/rc-remote-1.1.apk",
+  "sha256": "9d152e53c07a3a98eafb3c1dbeeb11addc0209a51151ed9a665038da636fed84",
+  "size": 164858886
  }
 }
