@@ -1,8 +1,8 @@
 {
  "client": {
-  "version": "1.0.62",
-  "linux": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/client-v1.0.62/rc-remote-client-linux.tar.gz",
-  "windows": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/client-v1.0.62/RCRemote.exe"
+  "version": "1.0.63",
+  "linux": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/client-v1.0.63/rc-remote-client-linux.tar.gz",
+  "windows": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/client-v1.0.63/RCRemote.exe"
  },
  "rc": {
   "version_code": 13,
