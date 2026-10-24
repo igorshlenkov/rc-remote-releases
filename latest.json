@@ -5,10 +5,10 @@
   "windows": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/client-v1.0.83/RCRemote.exe"
  },
  "rc": {
-  "version_code": 58,
-  "version_name": "1.57",
-  "apk": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/rc-v1.57/rc-remote-1.57.apk",
-  "sha256": "6eecf00612c7a2066eba0b91a409a5e961d2c64d27ad41ae8c3d2c96cd560e4c",
-  "size": 164902730
+  "version_code": 59,
+  "version_name": "1.58",
+  "apk": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/rc-v1.58/rc-remote-1.58.apk",
+  "sha256": "e9dad694b30220338fe9dce2338fccc70a009896c31a58869031964a0b40adf9",
+  "size": 164904466
  }
 }
