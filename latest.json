@@ -12,10 +12,10 @@
   "size": 165124068
  },
  "autel": {
-  "version_code": 26,
-  "version_name": "0.26",
-  "apk": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/autel-v0.26/rc-remote-autel-0.26.apk",
-  "sha256": "faaebfcf09b501206f1d23711c6ad44dea3d516c8d4a5e0230487a6b07e41217",
-  "size": 59881320
+  "version_code": 27,
+  "version_name": "0.27",
+  "apk": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/autel-v0.27/rc-remote-autel-0.27.apk",
+  "sha256": "2e6c9b19ae5dabc1fe369eb27eb236723458fdb7ebfc43fa9e942439d9515fe9",
+  "size": 59883268
  }
 }
