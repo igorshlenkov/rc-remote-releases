@@ -17,5 +17,12 @@
   "apk": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/autel-v0.30/rc-remote-autel-0.30.apk",
   "sha256": "194c895579c9ab6392bc58b232f940be175c647167f354bfd577eb2efa5c9c15",
   "size": 59883840
+ },
+ "detect": {
+  "version": "1",
+  "model": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/detect-v1/rc-detect-v1.onnx",
+  "sha256": "80bd4b44d7d1a5fc40e12d8e1c8f7b494df0ffa47c15b12b8414c88b70a5bc6b",
+  "size": 38175588,
+  "license": "https://github.com/igorshlenkov/rc-remote-releases/releases/download/detect-v1/MODEL_LICENSE.txt"
  }
 }
